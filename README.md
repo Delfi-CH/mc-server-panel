@@ -20,6 +20,7 @@ The individual components can be found here:
 | Total | **45%**
 | [delfi-ch/mc-server-manager-rust](https://github.com/Delfi-CH/mc-server-manager-rust) | **60%** |
 | [delfi-ch/mc-server-downloader-py](https://github.com/Delfi-CH/mc-server-downloader-py) | **95%** |
+| status: | ![Build](https://github.com/Delfi-CH/mc-server-downloader-py/actions/workflows/build.yml/badge.svg) |
 | [delfi-ch/mc-server-webpanel-js](https://github.com/Delfi-CH/mc-sever-webpanel-js) | **0%** |
 | Docker + Build tooling | **05%** |
 
