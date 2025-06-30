@@ -17,10 +17,10 @@ The individual components can be found here:
 
 | Component | Percentage |
 | --------- | ---------- |
-| Total | **60%**
-| [delfi-ch/mc-server-manager-rust](https://github.com/Delfi-CH/mc-server-manager-rust) | **70%** |
+| Total | **45%**
+| [delfi-ch/mc-server-manager-rust](https://github.com/Delfi-CH/mc-server-manager-rust) | **60%** |
 | [delfi-ch/mc-server-downloader-py](https://github.com/Delfi-CH/mc-server-downloader-py) | **95%** |
-| [delfi-ch/mc-server-webpanel-js](https://github.com/Delfi-CH/mc-sever-webpanel-js) | **00%** |
+| [delfi-ch/mc-server-webpanel-js](https://github.com/Delfi-CH/mc-sever-webpanel-js) | **0%** |
 | Docker + Build tooling | **05%** |
 
 ## This repository hosts:
