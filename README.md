@@ -21,7 +21,7 @@ The individual components can be found here:
 | [delfi-ch/mc-server-manager-rust](https://github.com/Delfi-CH/mc-server-manager-rust) | **40%** |
 | [delfi-ch/mc-server-downloader-py](https://github.com/Delfi-CH/mc-server-downloader-py) | **95%** |
 | [delfi-ch/mc-server-webpanel-js](https://github.com/Delfi-CH/mc-sever-webpanel-js) | **0%** |
-| Docker + Build tooling | **05%** |
+| Docker + Build tooling | **5%** |
 
 ## This repository hosts:
 
